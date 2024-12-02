@@ -1,6 +1,6 @@
 # Hello, I'm Ashok 👋
 
-Welcome to my GitHub profile!
+Welcome to my GitHub profile! Check out my [Portfolio](https://ashoksatpute.github.io/ashoksatpute/) for more about my work and projects.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ashok-satpute-3737611a7) 
